@@ -11,7 +11,11 @@ namespace Bonus01 {
 		}
 
 		static bool SplitValidateAndComputeInput(string stringIn) {
-			if (stringIn.Length == 0) return false;
+			if (stringIn.Length == 0) {
+				Console.WriteLine("Empty string detected!");
+				Console.WriteLine("Aborting.");
+				return false;
+			}
 
 			//Part 2 - Data grooming and validation
 			string[] splitString = stringIn.Split(","); //Turn our input string into an array of strings
