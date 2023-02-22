@@ -1,0 +1,15 @@
+D:\Code\Centennial\Y1S2\COMP123_Programming2\Bonus\BonusAssignments\Bonus3\bonus3\bin\Debug\net6.0\bonus3.exe
+D:\Code\Centennial\Y1S2\COMP123_Programming2\Bonus\BonusAssignments\Bonus3\bonus3\bin\Debug\net6.0\bonus3.deps.json
+D:\Code\Centennial\Y1S2\COMP123_Programming2\Bonus\BonusAssignments\Bonus3\bonus3\bin\Debug\net6.0\bonus3.runtimeconfig.json
+D:\Code\Centennial\Y1S2\COMP123_Programming2\Bonus\BonusAssignments\Bonus3\bonus3\bin\Debug\net6.0\bonus3.dll
+D:\Code\Centennial\Y1S2\COMP123_Programming2\Bonus\BonusAssignments\Bonus3\bonus3\bin\Debug\net6.0\bonus3.pdb
+D:\Code\Centennial\Y1S2\COMP123_Programming2\Bonus\BonusAssignments\Bonus3\bonus3\obj\Debug\net6.0\bonus3.csproj.AssemblyReference.cache
+D:\Code\Centennial\Y1S2\COMP123_Programming2\Bonus\BonusAssignments\Bonus3\bonus3\obj\Debug\net6.0\bonus3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Centennial\Y1S2\COMP123_Programming2\Bonus\BonusAssignments\Bonus3\bonus3\obj\Debug\net6.0\bonus3.AssemblyInfoInputs.cache
+D:\Code\Centennial\Y1S2\COMP123_Programming2\Bonus\BonusAssignments\Bonus3\bonus3\obj\Debug\net6.0\bonus3.AssemblyInfo.cs
+D:\Code\Centennial\Y1S2\COMP123_Programming2\Bonus\BonusAssignments\Bonus3\bonus3\obj\Debug\net6.0\bonus3.csproj.CoreCompileInputs.cache
+D:\Code\Centennial\Y1S2\COMP123_Programming2\Bonus\BonusAssignments\Bonus3\bonus3\obj\Debug\net6.0\bonus3.dll
+D:\Code\Centennial\Y1S2\COMP123_Programming2\Bonus\BonusAssignments\Bonus3\bonus3\obj\Debug\net6.0\refint\bonus3.dll
+D:\Code\Centennial\Y1S2\COMP123_Programming2\Bonus\BonusAssignments\Bonus3\bonus3\obj\Debug\net6.0\bonus3.pdb
+D:\Code\Centennial\Y1S2\COMP123_Programming2\Bonus\BonusAssignments\Bonus3\bonus3\obj\Debug\net6.0\bonus3.genruntimeconfig.cache
+D:\Code\Centennial\Y1S2\COMP123_Programming2\Bonus\BonusAssignments\Bonus3\bonus3\obj\Debug\net6.0\ref\bonus3.dll
